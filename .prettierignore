@@ -1,0 +1,10 @@
+# this file helps that where we do not have to use prettier
+
+
+/node_modules
+/.vscode
+/.dist
+
+*.env
+.eng
+.env*
